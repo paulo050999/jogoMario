@@ -54,4 +54,4 @@ Paulo Douglas - (https://github.com/paulo050999))
 
 ## 📄 Licença
 
-Este projeto está sob a licença (Creative Commons Zero v1.0 Universal) - veja o arquivo [LICENSE.md](https://github.com/paulo050999/UrnaEletronicaJava/blob/main/LICENSE) para detalhes.
+Este projeto está sob a licença (Creative Commons Zero v1.0 Universal) - veja o arquivo [LICENSE.md](https://github.com/paulo050999/jogoMario/blob/main/LICENSE)) para detalhes.
